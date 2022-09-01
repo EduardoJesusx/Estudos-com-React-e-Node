@@ -1,0 +1,18 @@
+{
+  "name": "Estudos-com-React-e-Node",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/EduardoJesusx/Estudos-com-React-e-Node.git",
+  "author": "EduardoJesusx <srduduca@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "uuidv4": "^6.2.13"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
